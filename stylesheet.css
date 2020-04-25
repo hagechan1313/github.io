@@ -269,3 +269,15 @@ footer {
     width: 100%;
   }
 }
+
+　.new-wrapper h2 {
+   position: relative;
+   padding: 3% 1em;
+   border-top: solid 2px black;
+   color: #1a1a1a;
+   font-size: 25px;
+   line-height: 30px;
+   margin-bottom: 38px;
+   text-align: center;
+   margin-top: 50px;
+}
